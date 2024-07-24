@@ -1,0 +1,75 @@
+.fundoDoCabecario {
+    background-color: rgb(123, 169,  255);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content:space-between
+}
+
+
+.logo {
+    height: 200px;
+     }
+    
+
+
+     .logo2 {
+    height: 200px;
+    
+     }
+
+
+     .titulo{
+        position: relative;
+        top: 65px;
+     }
+     *{
+
+        margin: 0%;
+        } 
+       
+       
+        .strap1 {
+            height: 450px;
+            position: relative;
+            top: 80px;
+            left: 150px;
+             }
+    
+             .preco1 {
+                position: relative;
+                
+                left: 570px;
+            
+    
+             }
+    
+             .compra {
+        font-size: 50px;
+    position: relative;
+    left: 700px;
+    top: -100px;
+    color: red;
+    background-color: aquamarine;
+    
+             }
+
+
+            
+
+            .sect {
+               background-image: linear-gradient(to top, rgb(253, 253, 255), rgb(123, 169, 255) ) ;
+   
+   
+            }
+
+            .butom {
+               font-size: 30px;
+               position: relative;
+               left: 400px;
+               top: 00px;
+               color: red;
+                        }
+   
+    
+            
+                

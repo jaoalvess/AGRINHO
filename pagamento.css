@@ -1,0 +1,75 @@
+.sec1 {
+justify-content: center;
+
+ 
+
+}
+
+*{
+ 
+
+    background-color: gray;
+}
+
+
+.titulo {
+font-size: 30px;
+color: red;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nome {
+text-align: center;
+
+}
+
+
+.email {
+
+    text-align: center;
+
+}
+
+.telefone {
+
+    text-align: center;
+}
+
+.endereco {
+    text-align: center;
+
+}
+
+.cartao {
+
+    text-align: center;
+}
+
+
+.cpf {
+    text-align: center;
+
+}
+
+.text {
+position: relative;
+left: 840px;
+}
+.text2 {
+    position: relative;
+    left: 840px;
+    top: -20px;
+    }
+
+
+.finalizar {
+color: red;
+font-size: 30px;
+position: relative;
+
+left: 620px;
+top: 80px;
+}
+
+
